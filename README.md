@@ -1,4 +1,4 @@
-![Uploading 0a8df90f-f8b8-44c5-b8a3-57c02f996977.png…]()
+<!-- Uploading "0a8df90f-f8b8-44c5-b8a3-57c02f996977.png"... -->
 
 # Marketing Campaign Performance Analysis
 
