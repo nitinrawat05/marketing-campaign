@@ -1,2 +1,17 @@
-> 📁 **Note:** The original dataset exceeded GitHub's 25MB upload limit, so it has been split into multiple smaller parts for easier access.  
-> Please download all parts and combine them as needed.
+## Dataset Note
+
+The original dataset exceeded GitHub’s 25MB upload limit, so it has been split into smaller files.
+
+### Files:
+- `part1.csv`
+- `part2.csv`
+
+### To merge the files:
+
+```python
+import pandas as pd
+
+df1 = pd.read_csv("part1.csv")
+df2 = pd.read_csv("part2.csv")
+
+full_data = pd.concat([df1, df2], ignore_index=True)
