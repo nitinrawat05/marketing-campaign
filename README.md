@@ -50,12 +50,7 @@ The dataset includes:
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Jupyter Notebook  
 - SQL (data extraction and querying)  
-- Tableau / Power BI (optional visualizations)  
-
 ---
 
 ## Getting Started
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/marketing-campaign-analysis.git
