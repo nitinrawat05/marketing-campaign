@@ -53,4 +53,14 @@ The dataset includes:
 ---
 
 ## Getting Started
+/t
+/dataset
+   part1.csv
+   part2.csv
+/placeholder
+/readme
+/script
+/LICENSE
+/README.md
+
 
