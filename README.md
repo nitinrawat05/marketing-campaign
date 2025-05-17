@@ -1,4 +1,4 @@
-<!-- Uploading "0a8df90f-f8b8-44c5-b8a3-57c02f996977.png"... -->
+![Image](https://github.com/user-attachments/assets/d60c891c-f978-4af7-9689-f2f3d24366ad)
 
 # Marketing Campaign Performance Analysis
 
