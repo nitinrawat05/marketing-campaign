@@ -20,9 +20,7 @@ To combine the dataset parts into a single file for analysis, use the following 
 ```python
 import pandas as pd
 
-# Load individual parts
 df1 = pd.read_csv("part1.csv")
 df2 = pd.read_csv("part2.csv")
 
-# Concatenate into a single DataFrame
 full_data = pd.concat([df1, df2], ignore_index=True)
